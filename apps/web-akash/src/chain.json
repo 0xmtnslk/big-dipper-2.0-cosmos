@@ -150,9 +150,9 @@
         }
       },
       "endpoints": {
-        "graphql": "https://gql.akash.forbole.com/v1/graphql",
+        "graphql": "https://rest-akash.ecostake.com/v1/graphql",
         "graphqlWebsocket": "wss://gql.akash.forbole.com/v1/graphql",
-        "publicRpcWebsocket": "wss://rpc.akash.forbole.com/websocket"
+        "publicRpcWebsocket": "wss://rpc-akash.ecostake.com/websocket"
       },
       "marketing": {
         "matomoURL": "https://analytics.bigdipper.live",

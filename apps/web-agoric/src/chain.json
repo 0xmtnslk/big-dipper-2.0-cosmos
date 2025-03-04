@@ -147,9 +147,9 @@
         }
       },
       "endpoints": {
-        "graphql": "https://gql.agoric.forbole.com/v1/graphql",
-        "graphqlWebsocket": "wss://gql.agoric.forbole.com/v1/graphql",
-        "publicRpcWebsocket": "wss://rpc.agoric.forbole.com/websocket"
+        "graphql": "https://main.api.agoric.net/v1/graphql",
+        "graphqlWebsocket": "wss://main.api.agoric.net/v1/graphql",
+        "publicRpcWebsocket": "wss://main.rpc.agoric.net/websocket"
       },
       "marketing": {
         "matomoURL": "https://analytics.bigdipper.live",

@@ -208,8 +208,8 @@
   "keplr": "",
   "chains": [
     {
-      "network": "blockspacerace-0",
-      "chainType": "Testnet",
+      "network": "celestia",
+      "chainType": "Mainnet",
       "genesis": {
         "time": "2023-03-14T16:00:00",
         "height": 1
@@ -228,9 +228,9 @@
         }
       },
       "endpoints": {
-        "graphql": "https://gql-testnet.celestia.forbole.com/v1/graphql",
-        "graphqlWebsocket": "wss://gql-testnet.celestia.forbole.com/v1/graphql",
-        "publicRpcWebsocket": "wss://rpc-testnet.celestia.forbole.com/websocket"
+        "graphql": "https://api.celestia.nodestake.org/v1/graphql",
+        "graphqlWebsocket": "wss://api.celestia.nodestake.org/v1/graphql",
+        "publicRpcWebsocket": "wss://rpc.celestia.nodestake.org/websocket"
       },
       "marketing": {
         "matomoURL": "https://analytics.bigdipper.live",

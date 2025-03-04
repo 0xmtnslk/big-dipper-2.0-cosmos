@@ -236,6 +236,36 @@
         "matomoURL": "https://analytics.bigdipper.live",
         "matomoSiteID": "8"
       }
+    },
+    {
+      "network": "mocha-4",
+      "chainType": "Testnet",
+      "genesis": {
+        "time": "2023-06-19T09:22:15",
+        "height": 1
+      },
+      "prefix": {
+        "consensus": "celestiavalcons",
+        "validator": "celestiavaloper",
+        "account": "celestia"
+      },
+      "primaryTokenUnit": "utia",
+      "votingPowerTokenUnit": "utia",
+      "tokenUnits": {
+        "uakt": {
+          "display": "TIA",
+          "exponent": 6
+        }
+      },
+      "endpoints": {
+        "graphql": "https://celestia-testnet-api.itrocket.net/v1/graphql",
+        "graphqlWebsocket": "wss://celestia-testnet-api.itrocket.net/v1/graphql",
+        "publicRpcWebsocket": "wss://celestia-testnet-rpc.itrocket.net/websocket"
+      },
+      "marketing": {
+        "matomoURL": "https://analytics.bigdipper.live",
+        "matomoSiteID": "8"
+      }
     }
   ]
 }
